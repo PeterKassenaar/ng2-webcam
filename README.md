@@ -1,2 +1,15 @@
 # ng2-webcam
-Example project of using Webcam stream in an Angular 2 (.rc6) application
+Example project of using a Webcam stream in an Angular 2 (.rc6) application
+
+## Usage
+- Download or clone the repo and run `npm install` to install dependencies
+- check if Webcam is available
+- run `npm start` to start the application.
+- Give browser permission to use the webcam.
+- The component should load and a single image of the webcam is displayed.
+- Press start/stop on the webcam controls to start streaming.
+
+## Roadmap
+- Start webcam streaming automatically.
+- Display error messages upon rejection.
+- Move webcam logic to separate Angular 2 service.
