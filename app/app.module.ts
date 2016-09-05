@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 // components
 import { AppComponent } from './app.component';
-import { WebCamComponent } from './webcam/webcamp.component';
+import { WebCamComponent } from './webcam/webcam.component';
 
 @NgModule({
 	imports: [BrowserModule],
