@@ -1,15 +1,17 @@
 // modules (Angular 2, .rc6)
-import { NgModule }      from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
+import {NgModule}      from '@angular/core';
+import {BrowserModule} from '@angular/platform-browser';
+import {BrowserModule} from '@angular/platform-browser';
 
 // components
-import { AppComponent } from './app.component';
-import { WebCamComponent } from './webcam/webcam.component';
+import {AppComponent} from './app.component';
+import {WebCamComponent} from './webcam/webcam.component';
 
 @NgModule({
-	imports: [BrowserModule],
-	declarations: [AppComponent, WebCamComponent],
-	providers: [],
-	bootstrap: [AppComponent]
+    imports: [BrowserModule],
+    declarations: [AppComponent, WebCamComponent],
+    providers: [],
+    bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+}
