@@ -1,7 +1,6 @@
 // modules (Angular 2, .rc6)
 import {NgModule}      from '@angular/core';
 import {BrowserModule} from '@angular/platform-browser';
-import {BrowserModule} from '@angular/platform-browser';
 
 // components
 import {AppComponent} from './app.component';
