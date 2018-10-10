@@ -1,3 +1,5 @@
+[status: unmaintained - though the code still works, this repository is not updated anymore]
+
 # ng2-webcam
 Example project of using a Webcam stream in an Angular 2 (.rc6) application
 
